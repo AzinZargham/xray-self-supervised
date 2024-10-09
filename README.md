@@ -7,3 +7,9 @@ Self supervised methods for feature extraction for knee xray images with differe
 - Inpainting tasks
 - Un-bluring tasks
 - Image transformation
+
+## Models
+- Resnet50Unet
+- Resnet101Unet
+
+
